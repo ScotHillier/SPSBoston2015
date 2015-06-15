@@ -1,0 +1,76 @@
+{
+  "appId": "a0982e52-1646-47ef-978c-032f8a04c84b",
+  "appRoles": [],
+  "availableToOtherTenants": false,
+  "displayName": "ADALJS.AlternateCSSandLogo",
+  "errorUrl": null,
+  "groupMembershipClaims": null,
+  "homepage": "https://localhost:44342/",
+  "identifierUris": [
+    "https://spsboston.onmicrosoft.com/ADALJS.AlternateCSSandLogo"
+  ],
+  "keyCredentials": [],
+  "knownClientApplications": [],
+  "logoutUrl": null,
+  "oauth2AllowImplicitFlow": true,
+  "oauth2AllowUrlPathMatching": false,
+  "oauth2Permissions": [
+    {
+      "adminConsentDescription": "Allow the application to access ADALJS.AlternateCSSandLogo on behalf of the signed-in user.",
+      "adminConsentDisplayName": "Access ADALJS.AlternateCSSandLogo",
+      "id": "30801d2a-91f1-42ff-9ce6-79e997d387fd",
+      "isEnabled": true,
+      "type": "User",
+      "userConsentDescription": "Allow the application to access ADALJS.AlternateCSSandLogo on your behalf.",
+      "userConsentDisplayName": "Access ADALJS.AlternateCSSandLogo",
+      "value": "user_impersonation"
+    }
+  ],
+  "oauth2RequirePostResponse": false,
+  "passwordCredentials": [
+    {
+      "customKeyIdentifier": null,
+      "endDate": "2016-06-08T16:15:14.7320915Z",
+      "keyId": "346e9bbd-0af7-49cc-8f51-44a73812c307",
+      "startDate": "2015-06-08T16:15:14.7320915Z",
+      "value": null
+    }
+  ],
+  "publicClient": null,
+  "replyUrls": [
+    "https://localhost:44342/"
+  ],
+  "requiredResourceAccess": [
+    {
+      "resourceAppId": "00000003-0000-0ff1-ce00-000000000000",
+      "resourceAccess": [
+        {
+          "id": "678536fe-1083-478a-9c59-b99265e6b0d3",
+          "type": "Role"
+        }
+      ]
+    },
+    {
+      "resourceAppId": "00000002-0000-0000-c000-000000000000",
+      "resourceAccess": [
+        {
+          "id": "311a71cc-e848-46a1-bdf8-97ff7156d8e6",
+          "type": "Scope"
+        }
+      ]
+    }
+  ],
+  "samlMetadataUrl": null,
+  "extensionProperties": [],
+  "objectType": "Application",
+  "objectId": "da8d2f97-3e34-4ff5-89c5-00678d5a4295",
+  "deletionTimestamp": null,
+  "createdOnBehalfOf": null,
+  "createdObjects": [],
+  "manager": null,
+  "directReports": [],
+  "members": [],
+  "memberOf": [],
+  "owners": [],
+  "ownedObjects": []
+}

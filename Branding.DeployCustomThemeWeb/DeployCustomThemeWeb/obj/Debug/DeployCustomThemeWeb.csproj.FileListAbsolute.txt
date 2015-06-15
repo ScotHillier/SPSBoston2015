@@ -1,0 +1,10 @@
+D:\Demos\42 - Branding\Branding.DeployCustomThemeWeb\DeployCustomThemeWeb\bin\Resources\custom.spcolor
+D:\Demos\42 - Branding\Branding.DeployCustomThemeWeb\DeployCustomThemeWeb\bin\Resources\custombg.jpg
+D:\Demos\42 - Branding\Branding.DeployCustomThemeWeb\DeployCustomThemeWeb\bin\Branding.DeployCustomThemeWeb.dll.config
+D:\Demos\42 - Branding\Branding.DeployCustomThemeWeb\DeployCustomThemeWeb\bin\Branding.DeployCustomThemeWeb.dll
+D:\Demos\42 - Branding\Branding.DeployCustomThemeWeb\DeployCustomThemeWeb\bin\Branding.DeployCustomThemeWeb.pdb
+D:\Demos\42 - Branding\Branding.DeployCustomThemeWeb\DeployCustomThemeWeb\bin\Microsoft.IdentityModel.dll
+D:\Demos\42 - Branding\Branding.DeployCustomThemeWeb\DeployCustomThemeWeb\bin\Microsoft.IdentityModel.Extensions.dll
+D:\Demos\42 - Branding\Branding.DeployCustomThemeWeb\DeployCustomThemeWeb\obj\Debug\DeployCustomThemeWeb.csprojResolveAssemblyReference.cache
+D:\Demos\42 - Branding\Branding.DeployCustomThemeWeb\DeployCustomThemeWeb\obj\Debug\Branding.DeployCustomThemeWeb.dll
+D:\Demos\42 - Branding\Branding.DeployCustomThemeWeb\DeployCustomThemeWeb\obj\Debug\Branding.DeployCustomThemeWeb.pdb

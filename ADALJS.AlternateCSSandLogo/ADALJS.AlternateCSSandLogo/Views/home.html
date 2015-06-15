@@ -1,0 +1,29 @@
+﻿<div class="jumbotron">
+    {{message}}
+</div>
+<div>
+    <a title="New Contact" opendialog data-ng-click="apply();" class="btn btn-info active hidden-sm hidden-xs" href="#">
+        Reset
+    </a>
+</div>
+<div style="margin-bottom:15px;">
+
+</div>
+<div class="table-striped">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="col-md-4">File Name</div>
+            <div class="col-md-4">URL</div>
+            <div class="col-md-4"></div>
+        </div>
+    </div>
+    <div class="row" style="padding-top:10px;" data-ng-repeat="fileInfo in filesInfo">
+        <div class="col-md-4">{{fileInfo.name}}</div>
+        <div class="col-md-4">{{fileInfo.serverRelativeUrl}}</div>
+        <div class="col-md-4">
+            <a title="Apply" data-ng-click="apply(fileInfo.serverRelativeUrl);" class="btn btn-default active" style="width: 75px; margin: 1px;" href="#">
+                Apply
+            </a>
+        </div>
+    </div>
+</div>

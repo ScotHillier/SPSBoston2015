@@ -1,0 +1,5 @@
+D:\Demos\42 - Branding\Branding.DeployCustomThemeWeb\DeployCustomTheme\bin\Debug\Resources\custom.spcolor
+D:\Demos\42 - Branding\Branding.DeployCustomThemeWeb\DeployCustomTheme\bin\Debug\Resources\custombg.jpg
+D:\Demos\42 - Branding\Branding.DeployCustomThemeWeb\DeployCustomTheme\bin\Debug\Branding.DeployCustomTheme.pdb
+D:\Demos\42 - Branding\Branding.DeployCustomThemeWeb\DeployCustomTheme\obj\Debug\Branding.DeployCustomTheme.dll
+D:\Demos\42 - Branding\Branding.DeployCustomThemeWeb\DeployCustomTheme\obj\Debug\Branding.DeployCustomTheme.pdb
